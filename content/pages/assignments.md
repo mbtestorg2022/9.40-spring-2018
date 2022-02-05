@@ -6,15 +6,108 @@ uid: f22984ff-59de-8fd8-ee9a-f0413ae2f486
 
 This page includes seven (7) problem sets as well as the rubric and guidelines.
 
-| Problem Sets | Topics | List of files |
-| --- | --- | --- |
-| [Problem set 1 (ZIP - 1.1MB)]({{< baseurl >}}/resources/mit9_40s18_pset1) | Diffusion, equivalent circuit and Nernst potential | This zip file contains: 3 .pdf files, 3 .m files, and 1 .mat file |
-| [Problem set 2 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset2) | Integrate and fire and Hodgkin-Huxley | This zip file contains: 1 .pdf file, 7 .m files, and 1 .p file |
-| [Problem set 3 (PDF)]({{< baseurl >}}/resources/mit9_40s18_pset3) | Synapses as computational devices | Reference: Vu, E.T., and F.B. Krasne. “[Evidence for a Computational Distinction Between Proximal and Distal Neuronal Inhibition](https://science.sciencemag.org/content/255/5052/1710).” _Science_ 255, no. 5052 (2018): 1710–12. |
-| [Problem set 4 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset4) | How neurons respond to different stimuli | This zip file contains: 1 .pdf file, 5 .m files, and 1 .mat file |
-| [Problem set 5 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset5) | Analyzing EEG data | This zip file contains: 1 .pdf file, 2 .m files, and 1 .mat file |
-| [Problem set 6 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset6) | Perceptrons and PCA | This zip file contains: 1 .pdf file, 1 .m file, and 1 .mat file |
-| [Problem set 7 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset7) | Recurrent networks | This zip file contains: 2 .pdf files 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Problem Sets
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+List of files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 1 (ZIP - 1.1MB)]({{< baseurl >}}/resources/mit9_40s18_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion, equivalent circuit and Nernst potential
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 3 .pdf files, 3 .m files, and 1 .mat file
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 2 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+Integrate and fire and Hodgkin-Huxley
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 1 .pdf file, 7 .m files, and 1 .p file
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit9_40s18_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+Synapses as computational devices
+{{< tdclose >}}
+{{< tdopen >}}
+Reference: Vu, E.T., and F.B. Krasne. “[Evidence for a Computational Distinction Between Proximal and Distal Neuronal Inhibition](https://science.sciencemag.org/content/255/5052/1710).” _Science_ 255, no. 5052 (2018): 1710–12.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 4 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+How neurons respond to different stimuli
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 1 .pdf file, 5 .m files, and 1 .mat file
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 5 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset5)
+{{< tdclose >}}
+{{< tdopen >}}
+Analyzing EEG data
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 1 .pdf file, 2 .m files, and 1 .mat file
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 6 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset6)
+{{< tdclose >}}
+{{< tdopen >}}
+Perceptrons and PCA
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 1 .pdf file, 1 .m file, and 1 .mat file
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 7 (ZIP)]({{< baseurl >}}/resources/mit9_40s18_pset7)
+{{< tdclose >}}
+{{< tdopen >}}
+Recurrent networks
+{{< tdclose >}}
+{{< tdopen >}}
+This zip file contains: 2 .pdf files
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Problem Set Rubric and Guidelines
 ---------------------------------
@@ -37,12 +130,58 @@ This refers to the extent that your code produces the right output, plots and fi
 
 Each problem set question will evaluated on a 4-point scale. The following tables give the point/assessment equivalency:
 
-| Points | Assessment |
-| --- | --- |
-| 4 | Code executes without syntax errors and produces correct results throughout. Graphs correctly represent the data. Analytical work is correct. Conceptual questions are correctly reasoned, concise and precise. |
-| 3 | Code executes without or with minimal syntax errors. One or two errors in code output, graphs, analytical work or conceptual responses are present. |
-| 2 | Code executes with syntax errors. Multiple errors in code, output, graphs, analytical work or conceptual responses are present. |
-| 1 | Code executes with multiple syntax errors. There are numerous errors in code output, graphs, analytical work and conceptual responses.   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Points
+{{< thclose >}}
+{{< thopen >}}
+Assessment
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Code executes without syntax errors and produces correct results throughout. Graphs correctly represent the data. Analytical work is correct. Conceptual questions are correctly reasoned, concise and precise.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Code executes without or with minimal syntax errors. One or two errors in code output, graphs, analytical work or conceptual responses are present.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Code executes with syntax errors. Multiple errors in code, output, graphs, analytical work or conceptual responses are present.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Code executes with multiple syntax errors. There are numerous errors in code output, graphs, analytical work and conceptual responses.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
+  
 **2\. Adherence to guidelines (10% total grade):**
 
 This evaluates the extent to which the code, graphs, equations and conceptual responses are presented per the guidelines specifications set in the assignment submission instructions.

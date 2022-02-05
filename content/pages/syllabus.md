@@ -61,11 +61,48 @@ Grading
 
 Grades are not matched to a specific curve in this subject. If everyone in the class does well, everyone can get an A. Grades will be assigned based on your overall, weighted class average using the weighting scheme presented below:
 
-| Activities | Percentages |
-| --- | --- |
-| Homework Assignments | 50% |
-| 2 Midterm Exams | 30% (15% each) |
-| Final Exam | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2 Midterm Exams
+{{< tdclose >}}
+{{< tdopen >}}
+30% (15% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class Schedule
 --------------
@@ -74,44 +111,901 @@ L = Lecture
 
 R = Recitation
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} L1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Course Overview and Ionic Currents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 1 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Intro to MATLAB and Ionic Currents {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} RC Circuit and Nernst Potential {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Nernst Potential and Integrate and Fire Models​ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} RC Model, Nernst Potential {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L4  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Hodgkin Huxley Model Part 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} _No Class_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 1 due {{< br >}}{{< br >}} PSet 2 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Integrate and Fire Model, Hodgkin Huxley Model {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Hodgkin Huxley Model Part 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Dendrites {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Synapses {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 2 due {{< br >}}{{< br >}} PSet 3 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Review Session {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Exam {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spike Trains {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 4 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spike Train Analysis {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Receptive Fields {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 3 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Time Series {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spike Triggered Average, Poisson Process {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spectral Analysis Part 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 4 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spectral Analysis Part 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 5 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spectral Analysis {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Spectral Analysis Part 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm 2 Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm 2 Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Exam 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Help With PSet 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Rate Models and Perceptrons {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 5 due {{< br >}}{{< br >}} Midterm Programming assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L15 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Matrix Operations {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Perceptons and Matrices {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Midterm Programming due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Basis Sets {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 6 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Principal Components Analysis​ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Principal Components Analysis​ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Recurrent Networks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 6 due {{< br >}}{{< br >}} PSet 7 assigned {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Neural Integrators {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Networks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Hopfield Networks {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PSet 7 due {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} L21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sequence Generation in Songbirds {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} R14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Final Review {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Course Overview and Ionic Currents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 1 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intro to MATLAB and Ionic Currents
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+RC Circuit and Nernst Potential
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nernst Potential and Integrate and Fire Models​
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+RC Model, Nernst Potential
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L4 
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hodgkin Huxley Model Part 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_No Class_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 1 due
+
+PSet 2 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Integrate and Fire Model, Hodgkin Huxley Model
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hodgkin Huxley Model Part 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dendrites
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Synapses
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 2 due
+
+PSet 3 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Review Session
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Exam
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spike Trains
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 4 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spike Train Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Receptive Fields
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 3 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Time Series
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spike Triggered Average, Poisson Process
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral Analysis Part 1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 4 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral Analysis Part 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 5 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral Analysis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Spectral Analysis Part 3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm 2 Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm 2 Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Exam 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Help With PSet 5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rate Models and Perceptrons
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 5 due
+
+Midterm Programming assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Matrix Operations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Perceptons and Matrices
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Midterm Programming due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basis Sets
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 6 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Principal Components Analysis​
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Principal Components Analysis​
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recurrent Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 6 due
+
+PSet 7 assigned
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Neural Integrators
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hopfield Networks
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+PSet 7 due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+L21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sequence Generation in Songbirds
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+R14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
