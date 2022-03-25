@@ -73,7 +73,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec03)
+[Nernst Potential and Integrate and Fire Models​ (PDF - 4.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec03)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ Lecture Notes
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hodgkin Huxley Model Part 2 (PDF - 3.3MB)]({{< baseurl >}}/resources/mit9_40s18_lec05)
+[Hodgkin Huxley Model Part 2 (PDF - 3.3MB)]({{< baseurl >}}/resources/mit9_40s18_lec05)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Dendrites (PDF - 3.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec06)
+[Dendrites (PDF - 3.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec06)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +141,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Synapses (PDF - 3.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec07)
+[Synapses (PDF - 3.1MB)]({{< baseurl >}}/resources/mit9_40s18_lec07)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +308,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Matrix Operations (PDF - 4.0MB)]({{< baseurl >}}/resources/mit9_40s18_lec15)
+[Matrix Operations (PDF - 4.0MB)]({{< baseurl >}}/resources/mit9_40s18_lec15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -367,7 +367,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recurrent Networks (PDF - 2.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec18)
+[Recurrent Networks (PDF - 2.2MB)]({{< baseurl >}}/resources/mit9_40s18_lec18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +407,7 @@ Lecture Notes
 
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Hopfield Networks (PDF - 2.7MB)]({{< baseurl >}}/resources/mit9_40s18_lec20)
+[Hopfield Networks (PDF - 2.7MB)]({{< baseurl >}}/resources/mit9_40s18_lec20)
 {{< tdclose >}}
 
 {{< trclose >}}

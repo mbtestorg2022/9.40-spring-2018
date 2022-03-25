@@ -11,4 +11,4 @@ Study Guides
 
 [Midterm Exam 2 Study Guide (PDF)]({{< baseurl >}}/resources/mit9_40s18_midterm2_studyguide)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam Study Guide (PDF)]({{< baseurl >}}/resources/mit9_40s18_final_studyguide)
+[Final Exam Study Guide (PDF)]({{< baseurl >}}/resources/mit9_40s18_final_studyguide)
