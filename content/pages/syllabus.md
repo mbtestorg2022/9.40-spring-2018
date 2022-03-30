@@ -14,7 +14,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-_Physics II_ ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006/)), [_6.0002 Introduction to Computational Thinking and Data Science_](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)_,_ and [_9.01 Introduction to Neuroscience_](/courses/9-01-neuroscience-and-behavior-fall-2003/) or permission of the instructor.
+_Physics II_ ([8.02](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007), 8.021, or [8.022](/courses/8-022-physics-ii-electricity-and-magnetism-fall-2006)), [_6.0002 Introduction to Computational Thinking and Data Science_](/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016)_,_ and [_9.01 Introduction to Neuroscience_](/courses/9-01-neuroscience-and-behavior-fall-2003) or permission of the instructor.
 
 Note: several modules of 8.02 can be found in [the Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library?f%5B0%5D=open_moocs_departments%3A34).
 

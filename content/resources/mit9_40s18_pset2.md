@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-40-introduction-to-neural-computation-spring-2018/1e299a8da64a634b604def3819212f00_MIT9_40S18_pset2.zip
 file_type: application/zip
+parent_uid: f22984ff-59de-8fd8-ee9a-f0413ae2f486
 resourcetype: Other
 title: MIT9_40S18_pset2.zip
 uid: 1e299a8d-a64a-634b-604d-ef3819212f00
